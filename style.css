@@ -3,3 +3,16 @@ body{
     padding:0px;
     font-family: Verdana;
 }
+header{
+    background-color:aliceblue;
+    margin:0%;
+
+}
+.name{
+    font-size: medium;
+    display:inline-block;
+    margin-right: 48%;
+}
+.header-links{
+    padding:2% ;
+}
