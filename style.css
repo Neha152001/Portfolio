@@ -19,20 +19,22 @@ header{
 }
 .left-side{
     float:left;
-    border:2px solid blue;
     display:inline-block;
+    width:25%
 }
 h2{
-    font-size: medium;
+    font-size: x-larger;
     margin:5%;
 }
 .profile{
     border-radius: 100%;
-    width:30%;
-    margin:2%;
+    width:40%;
+    margin:5%;
+    margin-left:20%;
 }
 .About{
     border:5px solid black;
-    width:50%;
+    width:70%;
    display:inline-block;
+   margin:0%;
 }
