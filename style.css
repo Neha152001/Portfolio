@@ -11,8 +11,16 @@ header{
 .name{
     font-size: medium;
     display:inline-block;
-    margin-right: 48%;
+    margin-right: 45%;
+    padding:1%;
 }
 .header-links{
     padding:2% ;
+}
+.left-side{
+    float:left;
+}
+h2{
+    font-size: medium;
+    margin:5%;
 }
