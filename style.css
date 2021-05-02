@@ -17,21 +17,12 @@ header{
 .header-links{
     padding:2% ;
 }
-.left-side{
-    float:left;
-    display:inline-block;
-    width:25%
-}
+
 h2{
     font-size: x-larger;
     margin:5%;
 }
-.profile{
-    border-radius: 100%;
-    width:40%;
-    margin-left:20%;
-    margin-bottom:1%;
-}
+
 .About{
     border:5px solid black;
     width:70%;
@@ -41,28 +32,9 @@ h2{
 h3{
     padding:3% 5%;
 }
-.skills{
-    background-color: rgb(206, 187, 164);
-    border-radius: 5%;
-    display:inline-block;
-    padding:3%;
-    margin-left:2%;
-    margin-top:0%;
-}
-.basic-info{
-    margin-left:4%;
-   
-}
+
 a{
     text-decoration: none;
     color:black;
 }
-.about{
-   margin:1%;
-   font-size:x-large;
-   padding-bottom: 1%;
-}
-.about-p{
-    margin-top:0%;
-    padding-left:5%;
-}
+

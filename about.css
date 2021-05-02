@@ -3,3 +3,30 @@
     display:inline-block;
     width:25%
 }
+.profile{
+    border-radius: 100%;
+    width:40%;
+    margin-left:20%;
+    margin-bottom:1%;
+}
+.basic-info{
+    margin-left:4%;
+   
+}
+.skills{
+    background-color: rgb(206, 187, 164);
+    border-radius: 5%;
+    display:inline-block;
+    padding:3%;
+    margin-left:2%;
+    margin-top:0%;
+}
+.about{
+    margin:1%;
+    font-size:x-large;
+    padding-bottom: 1%;
+ }
+ .about-p{
+    margin-top:0%;
+    padding-left:5%;
+}
