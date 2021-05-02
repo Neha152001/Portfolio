@@ -29,12 +29,15 @@ h2{
 .profile{
     border-radius: 100%;
     width:40%;
-    margin:5%;
     margin-left:20%;
+    margin-bottom:1%;
 }
 .About{
     border:5px solid black;
     width:70%;
    display:inline-block;
    margin:0%;
+}
+h3{
+    padding:3% 7%;
 }
