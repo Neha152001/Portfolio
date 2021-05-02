@@ -39,7 +39,7 @@ h2{
    margin:0%;
 }
 h3{
-    padding:3% 7%;
+    padding:3% 5%;
 }
 .skills{
     background-color: rgb(206, 187, 164);
@@ -48,4 +48,12 @@ h3{
     padding:3%;
     margin-left:2%;
     margin-top:0%;
+}
+.basic-info{
+    margin-left:4%;
+   
+}
+a{
+    text-decoration: none;
+    color:black;
 }
