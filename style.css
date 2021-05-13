@@ -4,7 +4,7 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 header{
-    background-color:aliceblue;
+    background-color:pink;
     margin:0%;
 
 }
@@ -38,6 +38,8 @@ h3{
 a{
     text-decoration: none;
     color:black;
+    
+
 }
 
 footer{
@@ -47,4 +49,10 @@ footer{
 .about-p{
     padding-bottom:3%;
     font-size: x-large;
+}
+.links{
+    background-color: bisque;
+    padding:3%;
+    border-radius:35%;
+    margin-left:2%;
 }
