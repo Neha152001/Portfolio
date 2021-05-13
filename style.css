@@ -27,9 +27,10 @@ h2{
 
 .About{
     
-    width:70%;
+    width:60%;
    display:inline-block;
-   margin:0%;
+   margin-right:0%;
+   margin-left:5%;
 }
 h3{
     padding:3% 5%;
@@ -52,7 +53,6 @@ footer{
 }
 .links{
     background-color: bisque;
-    padding:3%;
-    border-radius:35%;
     margin-left:2%;
+    padding:2%;
 }
