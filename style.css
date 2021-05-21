@@ -6,6 +6,7 @@ body{
 header{
     background-color:pink;
     margin:0%;
+    height:10%;
 
 }
 .name{
@@ -31,6 +32,10 @@ h2{
    display:inline-block;
    margin-right:0%;
    margin-left:5%;
+   font-size: 25px;
+   padding-top:5%;
+   padding-bottom:5%;
+   padding-left:3%;
 }
 h3{
     padding:3% 5%;
@@ -45,7 +50,7 @@ a{
 
 footer{
     background-color:pink;
-    margin-top:23%;
+    margin-top:5%;
 }
 .about-p{
     padding-bottom:3%;
@@ -55,4 +60,8 @@ footer{
     background-color: bisque;
     margin-left:2%;
     padding:2%;
+}
+h1{
+    padding-left:3%;
+    margin-top:3%;
 }
