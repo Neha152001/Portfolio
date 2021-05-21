@@ -6,7 +6,7 @@ body{
 header{
     background-color:pink;
     margin:0%;
-    height:10%;
+    height:5%;
 
 }
 .name{
@@ -33,9 +33,7 @@ h2{
    margin-right:0%;
    margin-left:5%;
    font-size: 25px;
-   padding-top:5%;
-   padding-bottom:5%;
-   padding-left:3%;
+  
 }
 h3{
     padding:3% 5%;
@@ -50,7 +48,8 @@ a{
 
 footer{
     background-color:pink;
-    margin-top:5%;
+    margin-top:13%;
+    margin-bottom:0%;
 }
 .about-p{
     padding-bottom:3%;
