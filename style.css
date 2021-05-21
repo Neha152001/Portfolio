@@ -5,9 +5,7 @@ body{
 }
 header{
     background-color:pink;
-    margin:0%;
-    height:5%;
-
+     margin-top:0%;
 }
 .name{
     font-size: medium;
@@ -44,12 +42,6 @@ a{
     color:black;
     
 
-}
-
-footer{
-    background-color:pink;
-    margin-top:13%;
-    margin-bottom:0%;
 }
 .about-p{
     padding-bottom:3%;
