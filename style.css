@@ -42,7 +42,7 @@ a{
 
 }
 .about-p{
-    padding-bottom:3%;
+    padding-bottom:1%;
     font-size: x-large;
 }
 .links{
@@ -56,4 +56,19 @@ h1{
 }
 header{
     background-color: azure;
+}
+footer{
+    background-color: bisque;
+    margin-top:15%;
+    height:15%;
+}
+.footer-name{
+    text-align:center;
+    margin:1%;
+}
+.footer-p{
+    text-align: center;
+    margin-top:0px;
+    padding-top:2px;
+  
 }
