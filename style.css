@@ -1,0 +1,25 @@
+body{
+    margin:0%;
+    padding:0%;
+}
+
+a{
+    color:black
+}
+
+header{
+      background-color: cornflowerblue;
+}
+
+.name{
+    display:inline-block;
+    padding:0.5%;
+}
+
+.header-links
+{
+    
+    padding:1.5% 5%;
+    text-decoration: none;
+    font-size:20px;
+}
