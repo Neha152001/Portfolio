@@ -1,7 +1,8 @@
 .left-side{
-    float:left;
+   
     display:inline-block;
-    width:25%
+    width:25%;
+   
 }
 .profile{
     border-radius: 100%;
@@ -21,11 +22,7 @@
     margin-left:2%;
     margin-top:0%;
 }
-.about{
-    margin:1%;
-    font-size:x-large;
-    padding-bottom: 1%;
- }
+
  .about-p{
     margin-top:0%;
     padding-left:5%;

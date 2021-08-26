@@ -10,12 +10,7 @@ body{
     margin-right: 45%;
     padding:1%;
 }
-.header-links{
-    padding-top:2% ;
-    padding-bottom:2%;
-    padding-left:7%;
-    margin-top:0%;
-}
+
 
 h2{
     font-size: x-larger;
@@ -23,43 +18,38 @@ h2{
 }
 
 .About{
-    
-    width:60%;
+  
    display:inline-block;
-   margin-right:0%;
-   margin-left:5%;
    font-size: 25px;
+   width:40%;
+   
+   
+  
   
 }
 h3{
     padding:3% 5%;
 }
-
 a{
-    text-decoration: none;
-    color:black;
     
-
+    color:black;
 }
+
 .about-p{
     padding-bottom:1%;
     font-size: x-large;
 }
 .links{
-    background-color: bisque;
     margin-left:2%;
     padding:2%;
 }
-h1{
-    padding:3%;
-    margin-top:1%;
-}
+
 header{
     background-color: azure;
 }
 footer{
     background-color: bisque;
-    margin-top:15%;
+    margin-top:3%;
     height:15%;
 }
 .footer-name{
@@ -71,4 +61,11 @@ footer{
     margin-top:0px;
     padding-top:2px;
   
+}
+.header-links{
+    padding-top:2% ;
+    padding-bottom:2%;
+    padding-left:7%;
+    margin-top:0%;
+    text-decoration: none;
 }
